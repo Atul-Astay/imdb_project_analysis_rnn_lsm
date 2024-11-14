@@ -3,3 +3,5 @@ This is the sentiment analysis project on IMDB database, where we trying to pred
 Author :- This project is completely done by Atul Sir.
 Date --> 9 October 2024
 Next Update --> 14 November 2024
+
+My Mobile is One Plus nord ce3.
